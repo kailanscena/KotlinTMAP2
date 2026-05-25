@@ -70,4 +70,4 @@ br.com.ulbra.jogos
 
 ---
 
-<p align="center">Desenvolvido por: <strong>[Seu Nome]</strong> 🚀</p>
+<p align="center">Desenvolvido por: <strong>Guilherme Birlem, Kailan de Scena Pacheco</strong> 🚀</p>
